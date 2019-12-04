@@ -119,6 +119,17 @@
     text-transform: uppercase;
     box-shadow: 0 10px 6px -10px #777;
 }
+.footer {
+    width: 100%;
+    background-color: #da4b29;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+.footer-text {
+    color: #fff;
+    text-align: center;
+}
 
 @media all and (max-width:500px){
     .top-bar {
